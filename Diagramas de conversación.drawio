@@ -211,7 +211,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B7dlH4Aojz8JjoXW3sHu" name="MMM">
-    <mxGraphModel dx="925" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1465" dy="1794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="FV20sulQuTvMeDrOD772-0" />
         <mxCell id="FV20sulQuTvMeDrOD772-1" parent="FV20sulQuTvMeDrOD772-0" />
@@ -255,8 +255,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ASVrXUEzMPWV5QrNTGg8-8" value="&lt;div&gt;1. ¿Dónde encuentro el estándar de descripciones para materiales?&lt;/div&gt;&lt;div&gt;2. ¿Se puede cambiar la descripción de un equipo?&lt;/div&gt;&lt;div&gt;3. ¿Cuáles son las consideraciones para reconfigurar un material?&lt;/div&gt;&lt;div&gt;4. ¿Cuándo aplica Make to Order (Z1) en un equipo?&lt;/div&gt;&lt;div&gt;5. ¿Qué descripciones debo afectar si modifico la descripción del GAE?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;" parent="FV20sulQuTvMeDrOD772-1" vertex="1">
-          <mxGeometry x="170" y="-970" width="570" height="130" as="geometry" />
+        <mxCell id="ASVrXUEzMPWV5QrNTGg8-8" value="&lt;div&gt;1. ¿Dónde encuentro el estándar de descripciones para materiales?&lt;/div&gt;&lt;div&gt;2. ¿Se puede cambiar la descripción de un equipo?&lt;/div&gt;&lt;div&gt;3. ¿Cuáles son las consideraciones para reconfigurar un material?&lt;/div&gt;&lt;div&gt;4. ¿Cuándo aplica Make to Order (Z1) en un equipo?&lt;/div&gt;&lt;div&gt;5. ¿Qué descripciones debo afectar si modifico la descripción del GAE?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;position2=0.49;" parent="FV20sulQuTvMeDrOD772-1" vertex="1">
+          <mxGeometry x="170" y="-1041" width="570" height="169" as="geometry" />
         </mxCell>
         <mxCell id="ASVrXUEzMPWV5QrNTGg8-9" value="" style="group;align=left;fontStyle=1;fontSize=8;" parent="FV20sulQuTvMeDrOD772-1" vertex="1" connectable="0">
           <mxGeometry x="10" y="-750" width="190" height="230" as="geometry" />
